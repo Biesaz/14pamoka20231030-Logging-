@@ -1,0 +1,20 @@
+31/10/2023 22:25:00 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:01 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:01 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:02 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:03 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:04 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:04 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:05 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:07 - root - DEBUG - Expences in total entered: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+31/10/2023 22:25:07 - root - DEBUG - Sum of expences: 8.0
+31/10/2023 22:25:22 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:23 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:23 - root - DEBUG - Expences entered: 1
+31/10/2023 22:25:25 - root - DEBUG - Expences in total entered: [1.0, 1.0, 1.0]
+31/10/2023 22:25:25 - root - DEBUG - Sum of expences: 3.0
+31/10/2023 22:30:32 - root - DEBUG - Expences entered: 1
+31/10/2023 22:30:33 - root - DEBUG - Expences entered: 2
+31/10/2023 22:30:33 - root - DEBUG - Expences entered: 3
+31/10/2023 22:30:34 - root - DEBUG - Expences in total entered: [1.0, 2.0, 3.0]
+31/10/2023 22:30:34 - root - DEBUG - Sum of expences: 6.0

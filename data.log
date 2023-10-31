@@ -1,5 +1,9 @@
-30/10/2023 21:43:16 - root - INFO - baba has logged in successfully !!
-30/10/2023 21:49:59 - root - INFO - aaa has logged in successfully !!
-30/10/2023 21:52:28 - root - INFO - 10 has logged in successfully !!1.0
-30/10/2023 21:53:21 - root - INFO - 41 has logged 9 successfully !!4.1
-30/10/2023 21:54:21 - root - INFO - 45 has logged [1, 2, 3, 4, 5, 6, 7, 8, 9, 0] successfully !!4.5
+DEBUG:root:Car was turned on
+DEBUG:root:Car has 30% of fuel
+INFO:root:Consumin gas at this 30 level
+INFO:root:Consumin gas at this 25 level
+INFO:root:Consumin gas at this 20 level
+INFO:root:Consumin gas at this 15 level
+INFO:root:Consumin gas at this 10 level
+INFO:root:Consumin gas at this 5 level
+DEBUG:root:Car was turned off
